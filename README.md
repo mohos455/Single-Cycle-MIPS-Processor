@@ -16,6 +16,10 @@ Vivado implementation
 
 output of factorial of 7 Program.
 
-![FACTORIAL OF 7](https://github.com/mohos455/Single-Cycle-MIPS-Processor/assets/106884579/cd9092c1-1642-4bf7-9a3e-fea28a1bb0b1)
+![factorial 7](https://github.com/mohos455/Single-Cycle-MIPS-Processor/assets/106884579/824339a0-6fdc-43d8-91b2-c4af670778d6)
+
+output of GCD of 120 and 180 Proram.
+
+![GDS](https://github.com/mohos455/Single-Cycle-MIPS-Processor/assets/106884579/8592ecf8-23d5-4ce3-a2f1-da2c68e8ce1c)
 
 the reference "Digital design and computer architecture" helped me a lot in designing the microprocessor
