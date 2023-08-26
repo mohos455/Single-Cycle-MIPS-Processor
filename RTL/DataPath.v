@@ -25,7 +25,7 @@ wire [31:0] SignlmmShift;
 assign WriteData = RD2 ;
 Adder Adder(
     .A(PC),
-    .B(32'd4), // is that right ?????
+    .B(32'd4), 
     .C(PCPlus4)
 );
 ///////////////
@@ -85,7 +85,7 @@ MUX MUX_ALUSrc (
 .out(SrcB)
 );
 
-MUX #(.width(5)) MUX_REGDst  ( //is that right ?????
+MUX #(.width(5)) MUX_REGDst  ( 
 .in1(Instr[20:16]),
 .in2(Instr[15:11]),
 .sel(regDest),
@@ -101,7 +101,7 @@ Adder Adder_2 (
 .C(PCBranch)
 );
 MUX MUX_MemtoReg (
-.in1(ALUResult),//it is output....is it right as feedback ??
+.in1(ALUResult),
 .in2(ReadData),
 .sel(MemtoReg),
 .out(Result)
