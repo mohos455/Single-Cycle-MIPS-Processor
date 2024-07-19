@@ -1,6 +1,6 @@
-<mxfile modified="2024-07-19T23:09:11.819Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="vW6bqdlbIorXMVwuL7rk" version="24.7.1" type="github">
+<mxfile modified="2024-07-19T23:29:16.400Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="EMQ4r5Um9aiFvMtELLg9" version="24.7.1" type="github">
   <diagram id="E_PGC8ikLrtpTTjUDTau" name="Page-1">
-    <mxGraphModel dx="2803" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4177" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1303,6 +1303,18 @@
         </mxCell>
         <mxCell id="gmV4FLeOSdiEn-evFXXv-329" value="MULT_dn" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1440" y="1810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gmV4FLeOSdiEn-evFXXv-330" value="Wen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="864.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gmV4FLeOSdiEn-evFXXv-332" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="170" y="932.5" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="gmV4FLeOSdiEn-evFXXv-333" value="RegW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="926" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gmV4FLeOSdiEn-evFXXv-334" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="871.87" width="20" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
