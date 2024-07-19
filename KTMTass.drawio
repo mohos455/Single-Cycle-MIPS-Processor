@@ -1,4 +1,4 @@
-<mxfile modified="2024-07-19T11:02:12.711Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="a98UXs8bTRdZ9e_R_5GK" version="24.7.1" type="github">
+<mxfile modified="2024-07-19T11:02:55.356Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="dQBU2NayDSmf1a6IRl0v" version="24.7.1" type="github">
   <diagram id="E_PGC8ikLrtpTTjUDTau" name="Page-1">
     <mxGraphModel dx="2503" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -903,6 +903,12 @@
         </mxCell>
         <mxCell id="gmV4FLeOSdiEn-evFXXv-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.044;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gmV4FLeOSdiEn-evFXXv-98" target="gmV4FLeOSdiEn-evFXXv-88">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmV4FLeOSdiEn-evFXXv-127" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gmV4FLeOSdiEn-evFXXv-128" value="EN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
